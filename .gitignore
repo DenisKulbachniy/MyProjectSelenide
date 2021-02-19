@@ -1,1 +1,5 @@
 /.idea/
+/TechStackProjectV2.0.iml
+/.target/
+*.iml
+/build/
